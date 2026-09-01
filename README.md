@@ -1,1 +1,1 @@
-Apple requires a website before app submission, so this exists to satisfy that. Both the site and the app were generated entirely with Claude Code as a test run — not representative of my work.
+Support and marketing site for Clear Day, an iOS task manager. The site and the app were both generated with Claude Code. Published to meet the App Store's website requirement.
